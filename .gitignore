@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+/storage/logs
+/storage/framework/cache/data
+/storage/app/public
+/public/storage
+/public/hot
+/public/storage
+/public/mix-manifest.json
+/public/css/*.map
+/public/js/*.map
